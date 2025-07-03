@@ -84,8 +84,10 @@
 32)git push -u origin master --> push your file or folder into github (origin is the remote file name)
                                 IF YOU WANT TO ADD NEW REMOTE REFER TO THIS VDO ON YOUTUBE 'https://youtu.be/Thx5yerhlhs?si=JHxIpK-fU3BC8C8_'
 
-33)git config --global alias.st "status" --> this is a shorthand for status you can write git st to see the status and this
+33)git config --global alias.st "status" --> this is a shorthand for status, you can write git st to see the status and this
                                            works with any commands
 
 34)git checkout -b example --> this will create a new branch named example and get you there 
    git checkout example --> this will only get you to the example branch
+
+35)git merge example --> this will merge the example branch with the master branch
