@@ -1,0 +1,91 @@
+1)pwd --> shows present working directory 
+   ls --> lists the folders of a dirctory
+
+2)cd --> changes directory (eg. cd(directory you want to go))
+
+3)git config --global user.name --> changes the name
+
+4)git config --global user.email --> changes email 
+
+5)git config --list --> shows user's info
+
+6)git config user.name --> shows the name 
+
+7)git config user.email --> shows the email
+
+........................................WORKING WITH GIT..................................................................
+
+8)git status --> shows the status (commited or staged etc)
+
+9)git init --> initalise the git 
+
+10)git add --a --> stage the file
+    git add example.txt --> an example 
+
+11)git commit -m "any msg" --> commits the file 
+
+12)git log --> shows the changes done in which date and time  and which datas have been changed 
+
+13)rm -rf .git --> deletes the file having .git extension (dangerous command)
+
+14)git clone https//example.com --> downloads the repository you want in your pc
+
+15)touch example.txt --> creates a file named example 
+
+16)touch .gitignore --> creates a file named .gitignore where you can just name any existing file name 
+                         such as example.txt so git will ignore any changes in the file
+
+          In your .gitignore if you write *.log so git will ignore any file with .log extension
+
+          GIT CAN IGNORE ANY FOLDER TOO
+
+          In your .gitignore folder if you write div/ so it will ignore any file with div name but if one have a static 
+          folder and there you have another div folder which has some content so you can write /div/ in your .gitignore     
+          so it will only ignore any changes which is outer of the static folder.
+
+17)git diff --> compares the working dirctory with staging directory
+
+18)git diff --staged --> compared previously commited datas with existing staged datas
+
+19)git commit -a -m "anymsg" --> the tracked files get staged and commited directly.
+                                  it does not apply to untracked files
+20)git rm example.txt --> deletes the file named example.txt
+
+21)git mv example.txt example_renamed.txt --> it renames the file named example.txt to example_renamed.txt
+
+22)git rm --cached example.txt --> make the example.txt untracked
+
+23)git log -p --> shows the whole history of the tracking dirctory 
+   git log -p -3 --> shows upto 3 commits 
+
+24)git log --stat --> shows the summery in short
+
+25)git log --pretty=oneline --> shows the commits in one line only 
+   git log --pretty=short --> same as git log --stat but more short
+   git log --pretty=full --> shows some more information but inshort
+
+26)git log --since=2.days/months/years --> shows the changes commited in last two days or months or years
+
+27)git log --pretty=format"%an -- %ae" --> shows authors name -- authors email
+
+28)git commit --amend --> you can edit the msg once commited and can also marge your existing staged items with the 
+                          previously commited items.
+                          Usually this command opens a vim editer where one can edit, to edit press i and to exit, press 
+                           esc key and type (:wq) to exit.(bracket is not included)
+
+29)git restore --staged "example.txt" -->it unstage the file named example.txt
+
+30)git checkout -- "example.txt" --> it gives back previously commited data (if you have done anything wrong 
+                                     with the file) IMPORTANT COMMAND
+
+31)git checkout -f --> merges the present working directory with previously commited datas, deletes the present 
+                      working datas (dangerous command)
+
+32)git push -u origin master --> push your file or folder into github (origin is the remote file name)
+                                IF YOU WANT TO ADD NEW REMOTE REFER TO THIS VDO ON YOUTUBE 'https://youtu.be/Thx5yerhlhs?si=JHxIpK-fU3BC8C8_'
+
+33)git config --global alias.st "status" --> this is a shorthand for status you can write git st to see the status and this
+                                           works with any commands
+
+34)git checkout -b example --> this will create a new branch named example and get you there 
+   git checkout example --> this will only get you to the example branch
