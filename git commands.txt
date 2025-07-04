@@ -91,3 +91,13 @@
    git checkout example --> this will only get you to the example branch
 
 35)git merge example --> this will merge the example branch with the master branch
+
+36)git branch -v --> this will show you previously commited datas in different branches including master branch 
+
+37)git branch --merged --> this will show you already merged branches 
+
+38)git branch --no-merged --> this will show you the branches which are not merged 
+
+39)git branch -d example --> gives an error if example is not merged 
+   git branch -D example --> actually deletes the branch
+
