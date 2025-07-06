@@ -101,6 +101,8 @@
 39)git branch -d example --> gives an error if example is not merged 
    git branch -D example --> actually deletes the branch
 
-40)40)git push origin example:myexample --> this command changes the name of branch on remote only, the branch on your pc 
+40)git push origin example:myexample --> this command changes the name of branch on remote only, the branch on your pc 
                                             remains same "example"
+
+41)git push -d origin example --> deletes the branch example from remote only
 
