@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class name_age{
+public class name_age3{
     public static void main(String[] args){
         Scanner input =new Scanner(System.in);
         System.out.print("Enter Your name: ");

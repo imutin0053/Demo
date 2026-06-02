@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class arithmatic{
+public class arithmatic6{
     public static void main(String[] args){
         Scanner input =new Scanner(System.in);
         System.out.print("Enter 1st no.: ");
