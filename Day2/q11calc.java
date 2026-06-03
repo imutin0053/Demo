@@ -16,7 +16,8 @@ public class q11calc{
             }else if(c=='*'){
                 System.out.printf("Multiplication: %.2f\n",num1*num2);
             }else if(c=='/'){
-                System.out.printf("Division: %.2f\n",num1/num2);
+                float d= num1/(int)num2;
+                System.out.printf("Division: %.2f\n",d);
             }else if(c=='%'){
                 int r= (int)num1%(int)num2;
                 System.out.printf("Remainder: %d\n",r);
