@@ -109,88 +109,88 @@ Display appropriate messages.
 q1 output
 
 
-![alt text](image.png)
+<img width="148" height="109" alt="image" src="https://github.com/user-attachments/assets/6f84af28-0935-4258-bcaf-77b3659525b3" />
 
 
 q2 output
 
 
-![alt text](image-1.png)
+<img width="170" height="141" alt="image" src="https://github.com/user-attachments/assets/b6b78aa7-7fd7-4fd7-ba69-cc18d6a09573" />
 
 
 q3 output
 
 
-![alt text](image-2.png)
+<img width="195" height="141" alt="image" src="https://github.com/user-attachments/assets/e004946d-89e6-4804-8936-8e7d05f201b3" />
 
 
 q4 output
 
 
-![alt text](image-3.png)
+<img width="129" height="204" alt="image" src="https://github.com/user-attachments/assets/89fce89b-ae58-41b0-941f-785819fc6085" />
 
 
 q5 output
 
 
-![alt text](image-4.png)
+<img width="267" height="69" alt="image" src="https://github.com/user-attachments/assets/e5914b06-2dd7-4686-943b-7beb3fdd7787" />
 
 
 q6 output
 
 
-![alt text](image-5.png)
+<img width="144" height="105" alt="image" src="https://github.com/user-attachments/assets/793417f8-7d77-405b-b491-90816dfc1336" />
 
 
 q7 output
 
 
-![alt text](image-6.png)
+<img width="141" height="105" alt="image" src="https://github.com/user-attachments/assets/887f02a4-2dd0-4190-bf59-9a9c2265bff1" />
 
 
 q8 output
 
 
-![alt text](image-7.png)
+<img width="185" height="72" alt="image" src="https://github.com/user-attachments/assets/e4e09890-d17b-426a-ad2a-9c8d6436ede3" />
 
 
 q9 output
 
 
-![alt text](image-8.png)
+<img width="191" height="112" alt="image" src="https://github.com/user-attachments/assets/ccabf4f6-9bfc-410c-a149-b794ded5b854" />
 
 
 q10 output
 
 
-![alt text](image-9.png)
+<img width="408" height="69" alt="image" src="https://github.com/user-attachments/assets/4810e22a-cc1f-4ef2-83a9-334b7210948f" />
 
 
 q11 output
 
 
-![alt text](image-10.png)
+<img width="268" height="122" alt="image" src="https://github.com/user-attachments/assets/c9235b93-b4c9-4263-8f1c-913f86cba7f4" />
 
 
 q12 output
 
 
-![alt text](image-11.png)
+<img width="231" height="85" alt="image" src="https://github.com/user-attachments/assets/4ebffbb0-a1be-4434-8857-5d07bda20909" />
 
 
 q13 output
 
 
-![alt text](image-12.png)
+<img width="157" height="56" alt="image" src="https://github.com/user-attachments/assets/9eff1853-e25a-4e1d-be87-48924ebf8b0f" />
 
 
 q14 output
 
 
-![alt text](image-13.png)
+<img width="180" height="105" alt="image" src="https://github.com/user-attachments/assets/155c5eb2-169e-49c6-b6ed-8e9cbbf99f61" />
 
 
 q15 output
 
 
-![alt text](image-14.png)
+<img width="196" height="68" alt="image" src="https://github.com/user-attachments/assets/0e9323cb-1960-4b0a-a75f-67d97b070ac5" />
