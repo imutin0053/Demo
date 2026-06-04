@@ -6,9 +6,20 @@ public class q5armstrongno{
         int num=input.nextInt();
         int num1=num;
         int sum=0;
+        int count=0;
         while(num1!=0){
             int rem=num1%10;
-            sum+=rem*rem*rem;
+            count++;
+            num1/=10;
+        }
+        num1=num;
+        while(num1!=0){
+            int rem=num1%10;
+            int power=1;
+            for(int i=1;i<=count;i++){
+                power*=rem;
+            }
+            sum+=power;
             num1/=10;
         }
         if(sum==num){
